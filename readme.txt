@@ -6,3 +6,5 @@ Hello world!
 this is a real life?
 or is just fantasy?
 
+
+creating a new branch is fast
