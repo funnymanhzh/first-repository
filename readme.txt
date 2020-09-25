@@ -1,3 +1,4 @@
-Git is a version control tool
+Git is a distributed control tool
 Git is free software
+I love Git
 
