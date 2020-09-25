@@ -18,3 +18,6 @@ continue~~
 change to merge --no-ff
 
 try stash function
+
+
+outer added a new file new.txt
