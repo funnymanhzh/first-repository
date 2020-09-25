@@ -6,5 +6,3 @@ Hello world!
 this is a real life?
 or is just fantasy?
 
-I'm just poor boy
-nobody loves me!
