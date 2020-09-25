@@ -14,3 +14,5 @@ it's simple to create a new branch
 
 
 continue~~
+
+change to merge --no--ff
