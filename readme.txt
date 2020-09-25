@@ -4,4 +4,4 @@ I love Git
 Hello world!
 
 this is a real life?
-or is just fantesy?
+or is just fantasy?
