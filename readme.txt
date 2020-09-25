@@ -17,8 +17,5 @@ continue~~
 
 change to merge --no-ff
 
-<<<<<<< HEAD
-
-=======
 try stash function
->>>>>>> dev
+
