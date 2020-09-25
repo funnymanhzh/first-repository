@@ -19,3 +19,5 @@ change to merge --no-ff
 
 try stash function
 
+
+outer add a new file
